@@ -28,8 +28,14 @@
 
 Приложите скриншот браузера с открытым эндпоинтом, а также скриншот списка таргетов из интерфейса Prometheus.*
 
+[text](https://github.com/stkv1/prometheus-02/blob/main/img/31.PNG)
+
+[text](https://github.com/stkv1/prometheus-02/blob/main/img/32.PNG)
+
 ## Задание 4*
 
 Создайте свой дашборд Grafana с различными метриками Docker и сервера, на котором он стоит.
 
 Приложите скриншот, на котором будет дашборд Grafana с действующей метрикой
+
+[text](https://github.com/stkv1/prometheus-02/blob/main/img/43.PNG)
